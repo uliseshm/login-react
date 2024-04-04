@@ -1,0 +1,18 @@
+.message-container{
+    bottom: 3rem;
+    margin: 0 auto;
+    width: max-content;
+    border: 2px solid #550404;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #c90f0f;
+    padding: .6rem;
+    border-radius: .5rem;
+}
+
+.message-container p {
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
